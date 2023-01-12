@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<! -- <div align="center">
   <a href="https://github.com/nilsonnegraodeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilsonnegraodeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 ## 🔭 Tecnologias que eu uso:
 <div style="display: inline_block"><br>

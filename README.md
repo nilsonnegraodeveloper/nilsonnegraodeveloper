@@ -1,5 +1,5 @@
-### Olá! Eu sou o Josenilson Silva 👋
-## GitHub usado para hospedar alguns testes práticos que fiz ao aplicar para algumas empresas(não identificadas nos referidos testes). Cada teste tem a descrição do que foi pedido, o que eu consegui desenvolver no prazo estipulado, bem como as instruções para rodar cada um deles.  
+## Olá! Eu sou o Josenilson Silva 👋
+### GitHub usado para hospedar alguns testes práticos que fiz ao aplicar para algumas empresas(não identificadas nos referidos testes). Cada teste tem a descrição do que foi pedido, o que eu consegui desenvolver no prazo estipulado, bem como as instruções para rodar cada um deles.  
 
 <!--
 **nilsonnegraodeveloper/nilsonnegraodeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilsonnegraodeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>-->
 
-## 🔭 Tecnologias que eu uso:
+### 🔭 Tecnologias que eu uso:
 <div style="display: inline_block"><br>
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
   <img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
 </div>
 
-## 🌱 Tecnologias que estou estudando:
+### 🌱 Tecnologias que estou estudando:
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">  
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   
 </div>
 
-## 💬 Minhas Redes:
+### 💬 Minhas Redes:
 <div> 
   
  <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
